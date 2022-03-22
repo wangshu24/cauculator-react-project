@@ -2,10 +2,10 @@ import "./style.css";
 
 function App() {
   return (
-    <div className="calculator-grid">
-      <div className="output-girder">
-        <div className="output-operand"></div>
-        <div className="current-operand"></div>
+    <div className="calculatr-grid">
+      <div className="output-grid">
+        <div className="previous-operand">121234123431</div>
+        <div className="current-operand">213213123123</div>
       </div>
 
       <button className="span-two-column">AC</button>
